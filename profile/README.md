@@ -3,7 +3,7 @@
 Open standards and open data for IRL streaming.
 
 - **[irl-commons](https://github.com/irl-commons/irl-commons)**: open data. A glossary and quick checks for common problems, plus directories of apps, services, hardware, public guides, and the formats and protocols they use. Comes with JSON Schemas and a validator. Data [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (reuse with credit), code MIT.
-- **[stream-status](https://github.com/irl-commons/stream-status)** and **[stream-session](https://github.com/irl-commons/stream-session)**: early drafts of open standards. stream-status says what's wrong with a stream, where, and whether it is still live. stream-session lets every device in a show agree on which show it is and who decides right now. Comments are welcome in their Discussions.
+- **[stream-status](https://github.com/irl-commons/stream-status)** and **[stream-session](https://github.com/irl-commons/stream-session)**: open standards. stream-status says what's wrong with a stream, where, and whether it is still live. stream-session lets every device in a show agree on which show it is and who decides right now. Comments are welcome in their Discussions.
 - **[howtoirl.org](https://howtoirl.org)** is for streamers and their helpers. **[irlcommons.org](https://irlcommons.org)** covers the standards, the data and how to contribute.
 - **[OpenStreamBox](https://github.com/openstreambox)** is a reference backpack build that uses these.
 
